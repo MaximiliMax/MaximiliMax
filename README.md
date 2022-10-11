@@ -1,3 +1,3 @@
-- 👋 Hello! I’m @MaximiliMax
-- 👀 I’m interested in many things... Like robots, sports, art and more!
+- 👋 Hello! I am @MaximiliMax
+- 👀 I’m interested in many things such as robotics, sports, art and more!
 - 🌱 I’m currently enrolled in the Mechatronics program at U of Waterloo
