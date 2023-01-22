@@ -1,5 +1,5 @@
-- 👋 Hello! I am @MaximiliMax
-- 👀 I’m interested in many things such as robotics, sports, art and more!
-- 🌱 I’m currently enrolled in the Mechatronics program at U of Waterloo
+👋 Hello! My name is Maximilian.
 
-Currently working on Robot Arm
+I am always looking forward to opportunities to improve my skills and learn.
+
+My passions are scattered across the world of creativity and innovation, from video editing to building robots - I love it all.
